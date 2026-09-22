@@ -7,12 +7,12 @@
 - **Instructor**: [Yu-Feng Huang](yfhuang@saturn.yzu.edu.tw)
 
 ## About Me
-- **Student ID**: student_id
-- **Student Name**: student_name
-- **Student E-mail**: [student_name](student_id@mail.yzu.edu.tw)
+- **Student ID**: 1123357
+- **Student Name**: 呂泯頡
+- **Student E-mail**: 呂泯頡(s1123357@mail.yzu.edu.tw)
 
 ## Repository Purpose
 This repository stores assignments, projects, and documentation for the CI001 course.
 
 ## GitHub Pages Site
-Visit my personal website: [https://<username>.github.io/](https://<username>.github.io/)
+Visit my personal website: [https://s1123357.github.io/](https://s1123357.github.io/)
